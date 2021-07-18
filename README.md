@@ -13,9 +13,14 @@
 2. read question and click to the option
 3. if wrong answer clicked, time will be ruduced by  10 seconds.  
 4. when quiz completed you can enter your intial and view your Highscore.
-
+## APPLICATION HOME PAGE
 ![](images/1.JPG)
+## QUIZ BEGIN COUNTER STARTS
 ![](images/2.JPG)
+## ENTER YOUR INTIALS AND SAVES SCORE
+![](images/3.JPG)
+## VIEW SCORES
+![](images/4.JPG)
 ## TECHNOLOGIES
 ### HTML
 ### CSS
