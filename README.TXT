@@ -11,6 +11,8 @@
 3. if wrong answer clicked, time will be ruduced by  10 seconds.  
 4. when quiz completed you can enter your intial and view your Highscore.
 
+![](images/1.JPG)
+
 ##TECHNOLOGIES
 ###HTML
 ###CSS
