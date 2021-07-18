@@ -11,7 +11,7 @@
 3. if wrong answer clicked, time will be ruduced by  10 seconds.  
 4. when quiz completed you can enter your intial and view your Highscore.
 
-![](images/1.JPG)
+![](https://github.com/LohithAmal/code-quiz-lohith-amal/blob/main/images/1.JPG)
 ![](images/2.JPG)
 ##TECHNOLOGIES
 ###HTML
