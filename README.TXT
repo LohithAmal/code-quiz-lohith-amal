@@ -12,7 +12,7 @@
 4. when quiz completed you can enter your intial and view your Highscore.
 
 ![](images/1.JPG)
-
+![](images/2.JPG)
 ##TECHNOLOGIES
 ###HTML
 ###CSS
