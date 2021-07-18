@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Nova+Square&display=swap");
+
+:root {
+  --background: #2c2e43;
+  --font-color: #fdf6f0;
+  --btn-color: rgb(137, 34, 195);
+  --correct-color: #50cb93;
+  --wrong-color: #c70039;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Nova Square", cursive;
+  line-height: 1.9rem;
+  color: var(--font-color);
+  background-color: var(--background);
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  color: var(--font-color);
+}
+a:hover {
+  border-bottom: 3px solid var(--btn-color);
+}
+#wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-wrap: wrap;
+  padding: 30px;
+  height: 100vh;
+  width: 100%;
+}
+h1 {
+  padding: 10px 0;
+  margin: 5px;
+  font-size: 40px;
+  white-space: normal;
+}
+p {
+  padding: 30px 0;
+  margin-bottom: 20px;
+  font-size: 25px;
+  max-width: 900px;
+}
+.btn {
+  display: inline-block;
+  cursor: pointer;
+  border: none;
+  background-color: var(--btn-color);
+  padding: 10px 15px;
+  font-size: 1.3rem;
+  border-radius: 5px;
+  color: var(--font-color);
+}
+.btn:hover {
+  opacity: 0.8;
+}
