@@ -1,11 +1,11 @@
-#CODE QUIZ 
+# CODE QUIZ 
 
 ##INSTALLATION
 1. dowload/clone repository
 2. open index.html
 3.user a text editor ti run application.
 
-##WORKING
+## WORKING
 1. click "start quiz"
 2. read question and click to the option
 3. if wrong answer clicked, time will be ruduced by  10 seconds.  
@@ -13,12 +13,12 @@
 
 ![](https://github.com/LohithAmal/code-quiz-lohith-amal/blob/main/images/1.JPG)
 ![](images/2.JPG)
-##TECHNOLOGIES
-###HTML
-###CSS
-###JAVASCRIPT
+## TECHNOLOGIES
+### HTML
+### CSS
+### JAVASCRIPT
 
-##REFRENCE AND ACKNOWLEDGEMENT
+## REFRENCE AND ACKNOWLEDGEMENT
 ### CODE IDEAS AND FUNCTIONALITY REFERENCE FROM :
 
 https://github.com/jamierachael/Code-Quiz
@@ -30,7 +30,7 @@ https://github.com/TiffanyCasey/Code-Quiz/blob/master/script.js
 https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript
 
 
-##GITHUB repository
+## GITHUB repository
 https://github.com/LohithAmal/code-quiz-lohith-amal
 
 ##LIVE DEPLYOMENT
