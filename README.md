@@ -41,7 +41,7 @@ https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript
 ## GITHUB repository
 https://github.com/LohithAmal/code-quiz-lohith-amal
 
-##LIVE DEPLYOMENT
+## LIVE DEPLYOMENT
 https://lohithamal.github.io/code-quiz-lohith-amal/
 
 
