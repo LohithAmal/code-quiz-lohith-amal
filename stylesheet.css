@@ -7,6 +7,18 @@
   --correct-color: #50cb93;
   --wrong-color: #c70039;
 }
+.fa-clock, .fa-codepen{
+  color: var(--btn-color);
+}
+.fa-trophy{
+  color: var(--font-color);
+}
+.high{
+ background-color: var(--btn-color);
+  border-radius: 4px;
+  padding: 10px;
+  margin: auto;
+}
 * {
   margin: 0;
   padding: 0;
@@ -21,13 +33,14 @@ body {
 .container {
   max-width: 1200px;
   margin: 0 auto;
+  padding: 20px;
 }
 a {
   text-decoration: none;
   color: var(--font-color);
 }
 a:hover {
-  border-bottom: 3px solid var(--btn-color);
+  opacity: 0.8;
 }
 #wrapper {
   display: flex;
